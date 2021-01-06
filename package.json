@@ -1,5 +1,5 @@
 {
-  "name": "ember-burger-menu",
+  "name": "@evocount/ember-burger-menu",
   "version": "3.3.4",
   "description": "An off-canvas sidebar component with a collection of animations and styles using CSS transitions",
   "scripts": {
